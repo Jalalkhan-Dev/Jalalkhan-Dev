@@ -66,4 +66,3 @@ Secure video consultations and appointment scheduling
 
 ---
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!%20🧠&animation=fadeIn&type=waving&color=gradient&height=100"/> </p>
