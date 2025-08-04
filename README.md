@@ -25,7 +25,7 @@ tech_stack:
   - Git, GitHub, Firebase, JWT
 education: BSc in Software Engineering @ IIUI
 interests: UI/UX, building clean, responsive web apps
-
+```
 
 🧰 Toolbox
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular,nodejs,express,mongodb,tailwind,bootstrap,git,github,firebase,vscode,figma,xd" /> </p>
@@ -43,4 +43,4 @@ interests: UI/UX, building clean, responsive web apps
 🐍 GitHub Contribution Snake
 
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!%20🧠&animation=fadeIn&type=waving&color=gradient&height=100"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!%20🧠&animation=fadeIn&type=waving&color=gradient&height=100"/> </p> 
