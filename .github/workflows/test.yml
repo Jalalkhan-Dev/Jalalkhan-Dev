@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'trigger-workflow.md'
+      - "trigger-workflow.md"
 
 jobs:
   test:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Test Actions is working
         run: echo "✅ GitHub Actions is working! Snake workflow should be visible now."
-        
+
       - name: List workflow files
         run: |
           echo "📁 Checking workflow files:"
