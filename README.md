@@ -47,12 +47,15 @@ Secure video consultations and appointment scheduling
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jalalkhan-Dev&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalalkhan-Dev&layout=compact&theme=radical" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jalalkhan-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalalkhan-Dev&layout=compact&theme=radical&include_all_commits=true&count_private=true" />
+</p>
 
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Jalalkhan-Dev/Jalalkhan-Dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Jalalkhan-Dev/Jalalkhan-Dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
