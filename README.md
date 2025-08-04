@@ -24,23 +24,37 @@ tech_stack:
   - Node.js, Express, MongoDB
   - Git, GitHub, Firebase, JWT
 education: BSc in Software Engineering @ IIUI
-interests: UI/UX, building clean, responsive web apps
+interests: Building responsive UIs, clean code, performance optimization
 ```
 
-🧰 Toolbox
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular,nodejs,express,mongodb,tailwind,bootstrap,git,github,firebase,vscode,figma,xd" /> </p>
-🚀 Projects
-📝 Exam Generator – Offline exam builder for teachers (React + Dexie.js)
+## 🧰 Toolbox
 
-🛒 E-Commerce SPA – Modular e-commerce app (React + Node.js)
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,firebase,figma,xd" /> </p>
 
-🏨 Hotel Management System – Full hotel ops suite (roles, payments, check-in)
+## 🚀 Projects
 
-💊 Healthcare Platform – Doctor-patient system with video consultations
+📝 **NIETE Exam Generator** (React, Dexie.js, TypeScript)  
+Offline-capable tool to create/manage assessments in low-bandwidth environments
 
-📊 GitHub Stats
+🛒 **E-Commerce SPA** (React + Node.js)  
+Refactored monolith to modular architecture, improving developer velocity
+
+🏨 **Hotel Management System**  
+Bookings, staff roles, check-ins, payments — all handled in one system
+
+💊 **Healthcare Platform**  
+Secure video consultations and appointment scheduling
+
+## 📊 GitHub Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jalalkhan-Dev&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalalkhan-Dev&layout=compact&theme=radical" /> </p>
-🐍 GitHub Contribution Snake
 
+## 🐍 GitHub Contribution Snake
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!%20🧠&animation=fadeIn&type=waving&color=gradient&height=100"/> </p> 
+<p align="center">
+  <img src="https://github.com/Jalalkhan-Dev/Jalalkhan-Dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!%20🧠&animation=fadeIn&type=waving&color=gradient&height=100"/> </p>
