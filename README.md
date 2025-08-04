@@ -53,11 +53,13 @@ Secure video consultations and appointment scheduling
 </p>
 
 ## 🐍 GitHub Activity Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jalalkhan-Dev&theme=react-dark&bg_color=20232a&hide_border=true" />
 </div>
 
 ## 🐍 GitHub Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jalalkhan-Dev/Jalalkhan-Dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jalalkhan-Dev/Jalalkhan-Dev/output/github-contribution-grid-snake.svg">
