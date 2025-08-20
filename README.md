@@ -31,25 +31,7 @@ interests: Building responsive UIs, clean code, performance optimization
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,firebase,figma,xd" /> </p>
 
-## 🚀 Projects
 
-📝 **NIETE Exam Generator** (React, Dexie.js, TypeScript)  
-Offline-capable tool to create/manage assessments in low-bandwidth environments
-
-🛒 **E-Commerce SPA** (React + Node.js)  
-Refactored monolith to modular architecture, improving developer velocity
-
-🏨 **Hotel Management System**  
-Bookings, staff roles, check-ins, payments — all handled in one system
-
-💊 **Healthcare Platform**  
-Secure video consultations and appointment scheduling
-
-## � GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalalkhan-Dev&theme=react-dark&bg_color=20232a&hide_border=true" />
-</div>
 
 ## 🐍 GitHub Contribution Snake
 
