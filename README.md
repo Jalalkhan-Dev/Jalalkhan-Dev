@@ -45,13 +45,6 @@ Bookings, staff roles, check-ins, payments — all handled in one system
 💊 **Healthcare Platform**  
 Secure video consultations and appointment scheduling
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jalalkhan-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalalkhan-Dev&layout=compact&theme=radical&include_all_commits=true&count_private=true" />
-</p>
-
 ## � GitHub Activity Graph
 
 <div align="center">
